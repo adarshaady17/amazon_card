@@ -1,0 +1,11 @@
+.Product{
+    background-color: aliceblue;
+    color: black;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    border-radius: 1cap;
+    padding: 0 10px 0 10px;
+    margin-left: 15px;
+    height: 195px;
+    width:220px;
+}
